@@ -36,8 +36,8 @@
 ### JPA(Spring Data JPA)
   + 자바만으로 SQL을 작동시키기 위한 번역기 -> repository에서 작동
     + 설정
-      + 1️⃣ `implementation 'org.springframework.boot:spring-boot-starter-data-jpa'`
-      + 2️⃣ application.properties에 `spring.jpa.show-sql=true` 추가
+      +  `implementation 'org.springframework.boot:spring-boot-starter-data-jpa'`
+      +  application.properties에 `spring.jpa.show-sql=true` 추가
       
       
     + *Domain* (= 테이블)
