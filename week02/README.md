@@ -1,8 +1,5 @@
 ## 2주차
 
-![sparta-sping-image](https://user-images.githubusercontent.com/63450463/125190063-436a7280-e276-11eb-88bc-7c482c422dee.png)
-
-
 ### RDBMS (Relational DataBase Management System)
   + 관계형 데이터베이스
   + ex) MySQL, PostgreSQL, Oracle Database
